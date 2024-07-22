@@ -53,6 +53,9 @@ Implement an agentic RAG system using LangGraph, focusing on agent-based retriev
 ### 41. LangGraph - CRAG.ipynb
 Explore CRAG techniques with LangGraph, focusing on contextual retrieval and generation.
 
+### 9. Basic Multi-Modal app.ipynb
+Create multi-modal AI apps with image and text support.
+
 ## Fine-Tuning Projects
 
 ### 17. Fine Tune Falcon-7b.ipynb
@@ -63,6 +66,9 @@ Learn how to fine-tune the Bloom7B model using LoRA and PEFT techniques for tagg
 
 ### 19. QLora_bnb_4bit_training_with_inference.ipynb
 Implement QLora with 4-bit training and inference, focusing on efficient model training techniques.
+
+### 20. Basic LLM Supervised Fine-Tuning with QLora.ipynb
+Fine tune LLMs using QLora for better hardware adaptation.
 
 ### 13. Supervised Fine-Tuning LLM.ipynb
 Understand the process of supervised fine-tuning for large language models, with practical examples and step-by-step guidance.
