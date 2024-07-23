@@ -169,6 +169,9 @@ Develop BabyAGI using LangChain without external tools, showcasing minimalist ag
 ### 50. Reflection with OpenAI and LangGraph.ipynb
 Explore reflection techniques with OpenAI and LangGraph, focusing on self-improving models.
 
+### 53. Agent Executor with force-calling-a-tool-first.ipynb
+Implement an agent that can run web-searching tasks with a first compulsary tool calling process and enhancing flexibility for further tasks.
+
 ### 51. GPT 4o mini - Testing.ipynb
 A testing notebook for the GPT 4o mini model, demonstrating various testing scenarios and results.
 
