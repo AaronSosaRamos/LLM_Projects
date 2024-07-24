@@ -177,3 +177,6 @@ Learn how to build an agent executor from scratch using Google Generative AI, wi
 
 ### 53. Agent Executor with force-calling-a-tool-first.ipynb
 Implement an agent that can run web-searching tasks with a first compulsary tool calling process and enhancing flexibility for further tasks.
+
+### 54. Agents - Human_in_the_loop.ipynb
+Implements agents with Human intervention for accomplishing certain defined tasks in LangGraph
