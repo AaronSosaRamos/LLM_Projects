@@ -180,3 +180,6 @@ Implement an agent that can run web-searching tasks with a first compulsary tool
 
 ### 54. Agents - Human_in_the_loop.ipynb
 Implements agents with Human intervention for accomplishing certain defined tasks in LangGraph
+
+### 55. Agents- Managing Agent Steps.ipynb
+Integrates a mechanism for limiting the number of agent steps in iterative processes for reducing the computational and token cost.
