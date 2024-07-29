@@ -186,3 +186,6 @@ Integrates a mechanism for limiting the number of agent steps in iterative proce
 
 ### 56. Chat Agent Executor with GPT-4o-mini.ipynb
 Implement a Chat Agent Executor with ToolNodes (TavilySearch) for searching for real-time info. if needed with GPT-4o-mini.
+
+### 57. Chat_Agent_Executor_(base)_with_GPT_4o_mini.ipynb
+Implement a Chat Agent Executor with ToolNodes (TavilySearch) for searching for real-time info. if needed with GPT-4o-mini and the base agent model.
