@@ -189,3 +189,6 @@ Implement a Chat Agent Executor with ToolNodes (TavilySearch) for searching for 
 
 ### 57. Chat_Agent_Executor_(base)_with_GPT_4o_mini.ipynb
 Implement a Chat Agent Executor with ToolNodes (TavilySearch) for searching for real-time info. if needed with GPT-4o-mini and the base agent model.
+
+### 58. Chat_Agent_Dynamically_Returning_Directly
+Implement a Chat Agent and adding the dynamically returning directly when the output of the tool call is appropriate for answering the user's query.
