@@ -192,3 +192,6 @@ Implement a Chat Agent Executor with ToolNodes (TavilySearch) for searching for 
 
 ### 58. Chat_Agent_Dynamically_Returning_Directly
 Implement a Chat Agent and adding the dynamically returning directly when the output of the tool call is appropriate for answering the user's query.
+
+### 59. Chat_Agent_Force_Calling_A_Tool_First.ipynb
+Develop a Chat Agent that first mades a call to a tool and then offers flexibility for further tool calling activities.
