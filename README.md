@@ -195,3 +195,6 @@ Implement a Chat Agent and adding the dynamically returning directly when the ou
 
 ### 59. Chat_Agent_Force_Calling_A_Tool_First.ipynb
 Develop a Chat Agent that first mades a call to a tool and then offers flexibility for further tool calling activities.
+
+### 60. ReAct_Agent_High_Level_Tools.ipynb
+Implement a ReAct Agent with a WebSearch Tool (Tavily API) for agile development and deployment.
