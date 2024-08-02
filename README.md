@@ -152,6 +152,9 @@ Create an SQL agent using OpenAI GPT 3.5, enabling SQL query processing and data
 ### 49. Quantized Llama 3 with Gradio UI.ipynb
 Develop a quantized Llama 3 model with a Gradio UI, showcasing efficient model deployment and interaction.
 
+### 62. Quantized_Llama_3_1_with_Gradio_UI.ipynb
+Develop a quantized Llama 3.1 model with a Gradio UI, showcasing efficient model deployment and interaction.
+
 ## Agent and Integration Projects
 
 ### 23. PAL_chain_with_LangChain.ipynb
