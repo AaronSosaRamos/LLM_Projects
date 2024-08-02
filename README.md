@@ -198,3 +198,6 @@ Develop a Chat Agent that first mades a call to a tool and then offers flexibili
 
 ### 60. ReAct_Agent_High_Level_Tools.ipynb
 Implement a ReAct Agent with a WebSearch Tool (Tavily API) for agile development and deployment.
+
+### 61. Chat_Agent_Human_In_The_Loop.ipynb
+Develop a Chat Agent that has a "human-in-the-loop" intervention in the AI workflow.
