@@ -204,3 +204,6 @@ Implement a ReAct Agent with a WebSearch Tool (Tavily API) for agile development
 
 ### 61. Chat_Agent_Human_In_The_Loop.ipynb
 Develop a Chat Agent that has a "human-in-the-loop" intervention in the AI workflow.
+
+### 63. ChatAgent - Managing Agent Steps.ipynb
+Implement a Chat Agent limiting the number of messages in the chat history for optimal performance.
