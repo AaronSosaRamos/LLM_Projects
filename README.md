@@ -216,3 +216,9 @@ Develop a Chat Agent that has a "human-in-the-loop" intervention in the AI workf
 
 ### 63. ChatAgent - Managing Agent Steps.ipynb
 Implement a Chat Agent limiting the number of messages in the chat history for optimal performance.
+
+### 67. ChatAgent - Prebuilt Tool Node.ipynb
+Develop a Chat Agent with a pre built Tool Node with Tavily for searching info. in the web.
+
+### 68. ChatAgent - Respond in format.ipynb
+Develop a Chat Agent with deterministic responses (With appropriate formatting).
