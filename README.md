@@ -158,6 +158,12 @@ Develop a quantized Llama 3.1 model with a Gradio UI, showcasing efficient model
 ### 64. Quantized Mistral 7B with Gradio UI.ipynb
 Develop a quantized Mistral 7B model with a Gradio UI, showcasing efficient model deployment and interaction.
 
+### 65. Quantized Phi-3-mini-4K with Gradio UI.ipynb
+Develop a quantized Phi-3-mini-4K with a Gradio UI, showcasing efficient model deployment and interaction.
+
+### 66. Quantized Llama 3.1 Instruct with Gradio UI.ipynb
+Develop a quantized Llama 3.1 Instruct with a Gradio UI, showcasing efficient model deployment and interaction.
+
 ## Agent and Integration Projects
 
 ### 23. PAL_chain_with_LangChain.ipynb
